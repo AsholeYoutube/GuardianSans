@@ -1,9 +1,9 @@
-# GuardianSans
-Guardian Sans Botu Bir Undertale Botudur / Kendisi Türkçedir Yakında Daha Fazla Dil Deşteği Gelicektir! / Destek İçin Guardian Sansın Discord Destek Serverine Gelebilirsin!
+# Determination
+Determination Botu Bir Undertale Botudur / Kendisi Türkçedir Yakında Daha Fazla Dil Deşteği Gelicektir! / Destek İçin Guardian Sansın Discord Destek Serverine Gelebilirsin!
 
 -Notlar-
 
-Guardian Sans Botu BDFD Adlı Program İle Yapıldı 
+Determination Botu BDFD Adlı Program İle Yapıldı 
 
 Eğer Destek Etmek İstiyorsan Destek Serverimize Gelebilirsin
 
